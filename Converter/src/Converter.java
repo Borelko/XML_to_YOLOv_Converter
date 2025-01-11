@@ -17,7 +17,7 @@ import static java.lang.Math.abs;
 import java.nio.file.Paths;
 import java.util.Objects;
 
-public class XmlReader {
+public class Converter {
 
     public static void main(String[] args) {
 
